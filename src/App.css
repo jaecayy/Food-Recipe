@@ -1,0 +1,28 @@
+
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+.jumbotron {
+  background-color: #ff3f34;
+  color: #fff;
+  padding: 60px 0;
+  text-align: center;
+}
+
+
+.brand-icon {
+    font-size: 100px;
+    color:white;
+}
+
+.greet{
+  text-align: center;
+  margin-top: 15px;
+}
+
+.heart{
+  color:white;
+  font-size:40px;
+}
